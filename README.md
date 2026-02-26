@@ -1,6 +1,6 @@
 # 🛠️ Termux-Fixer (BETA)
 
-"My biggest project yet. One script to fix your Termux headaches."
+" One script to fix your Termux headaches."
 
 ### ✅ What this does:
 * **Fixes Storage:** Sets up your phone storage link so you can save files.
